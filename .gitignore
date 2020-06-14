@@ -1,6 +1,6 @@
 Images/
-output_data/
-starter_code/
+output_data/*
+starter_code/*
 WeatherPy/api_keys.py
 VacationPy/api_keys.py
 Python_API_grading_rubric.pdf
